@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="beeb0607-9f79-48dd-8488-34a2c73bcec5" name="Changes" comment="count set bits">
-      <change afterPath="$PROJECT_DIR$/src/countingBIts.java" afterDir="false" />
+    <list default="true" id="beeb0607-9f79-48dd-8488-34a2c73bcec5" name="Changes" comment="traprainwater">
+      <change afterPath="$PROJECT_DIR$/src/fib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +36,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.fib">
     <configuration name="countingBIts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="countingBIts" />
       <module name="datastructures" />
@@ -43,8 +44,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="fib" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fib" />
+      <module name="datastructures" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops" />
+      <module name="datastructures" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.fib" />
+        <item itemvalue="Application.oops" />
         <item itemvalue="Application.countingBIts" />
       </list>
     </recent_temporary>
@@ -86,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676971693184</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="traprainwater">
+      <created>1677087150455</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677087150455</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,6 +135,7 @@
     <MESSAGE value="anagrams" />
     <MESSAGE value="search in rotated arr" />
     <MESSAGE value="count set bits" />
-    <option name="LAST_COMMIT_MESSAGE" value="count set bits" />
+    <MESSAGE value="traprainwater" />
+    <option name="LAST_COMMIT_MESSAGE" value="traprainwater" />
   </component>
 </project>
