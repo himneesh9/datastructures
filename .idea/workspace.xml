@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="beeb0607-9f79-48dd-8488-34a2c73bcec5" name="Changes" comment="Removeduplicate">
-      <change afterPath="$PROJECT_DIR$/src/recursion.java" afterDir="false" />
+    <list default="true" id="beeb0607-9f79-48dd-8488-34a2c73bcec5" name="Changes" comment="tower of hanoi">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -139,7 +138,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677344027938</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="tower of hanoi">
+      <created>1677415144316</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677415144316</updated>
+    </task>
+    <task id="LOCAL-00009" summary="tower of hanoi">
+      <created>1677415197232</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1677415197232</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,6 +180,7 @@
     <MESSAGE value="traprainwater" />
     <MESSAGE value="practice" />
     <MESSAGE value="Removeduplicate" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removeduplicate" />
+    <MESSAGE value="tower of hanoi" />
+    <option name="LAST_COMMIT_MESSAGE" value="tower of hanoi" />
   </component>
 </project>
